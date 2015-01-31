@@ -39,6 +39,7 @@
   "noflo": {
     "icon": "building",
     "components": {
+      "AddPropertyValue": "components/AddPropertyValue.js",
       "WrapWithGroup": "components/WrapWithGroup.js"
     }
   },
