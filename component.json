@@ -21,5 +21,8 @@
     "components": {
       "WrapWithGroup": "components/WrapWithGroup.js"
     }
-  }
+  },
+  "json": [
+    "component.json"
+  ]
 }

@@ -36,5 +36,11 @@
     "grunt-noflo-manifest": "~0.1.11",
     "grunt-noflo-browser": "^0.1.1"
   },
+  "noflo": {
+    "icon": "building",
+    "components": {
+      "WrapWithGroup": "components/WrapWithGroup.js"
+    }
+  },
   "keywords": []
 }
