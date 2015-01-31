@@ -14,7 +14,7 @@
   ],
   "scripts": [
     "index.js",
-    "components/AddPropertyValue.js"
+    "components/AddPropertyValue.js",
     "components/WrapWithGroup.js"
   ],
   "noflo": {
