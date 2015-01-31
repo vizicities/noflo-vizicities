@@ -1,0 +1,25 @@
+{
+  "name": "noflo-vizicities",
+  "description": "ViziCities components for NoFlo",
+  "author": "Robin Hawkes <rob@vizicities.com>",
+  "repo": "Robin/noflo-vizicitieties",
+  "version": "0.1.0",
+  "keywords": [
+  ],
+  "dependencies": {
+    "noflo/noflo": "*"
+  },
+  "remotes": [
+    "https://raw.githubusercontent.com"
+  ],
+  "scripts": [
+    "index.js",
+    "components/WrapWithGroup.js"
+  ],
+  "noflo": {
+    "icon": "building",
+    "components": {
+      "WrapWithGroup": "components/WrapWithGroup.js"
+    }
+  }
+}
